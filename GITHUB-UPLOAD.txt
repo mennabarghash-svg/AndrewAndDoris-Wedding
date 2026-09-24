@@ -1,0 +1,2 @@
+Upload all files in this folder directly to the ROOT of your GitHub repository.
+This optimized version uses WebP images to load much faster.
